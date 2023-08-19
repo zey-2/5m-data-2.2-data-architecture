@@ -18,7 +18,7 @@ Conceptual knowledge, refer to slides.
 
 ---
 
-## Part 2 - Introduction to NoSQL and Object Storage
+## Part 2 - Hands-on with Redis and Google Cloud Storage
 
 We will be using the `notebooks/nosql_object_storage_lesson.ipynb` notebook throughout this lesson.
 
