@@ -36,7 +36,7 @@ Learners will be able to:
 |          | **1 HR MARK**           |
 | 30 mins  | Concept                 | Part 1: Data architecture types.                         |
 | 10 mins  | Break                   |                                                          |
-| 20 mins  | Code-along              | Part 1: Data architecture principles.                    |
+| 20 mins  | Concept                 | Part 1: Data architecture principles.                    |
 |          | **2 HR MARK**           |
 | 50 mins  | Code-along              | Part 2: Hands-on with redis and google cloud storage.    |
 | 10 mins  | Briefing / Q&A          | Brief on references, assignment, quiz and Q&A.           |
