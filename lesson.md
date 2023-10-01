@@ -8,7 +8,7 @@ We will be using the `bde` environment for this lesson. If you do not have a gma
 
 ### Lesson Overview
 
-This lesson introduces data architecture concepts, principles and types. It also contains hands-on coding with redis and google cloud storage.
+This lesson introduces data architecture concepts, principles and types. It also contains hands-on coding with `Redis` and `Google Cloud Storage`.
 
 ---
 

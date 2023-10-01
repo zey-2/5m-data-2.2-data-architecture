@@ -23,8 +23,8 @@ Learners will understand:
 Learners will be able to:
 
 - Consider trade-offs between different data architecture types.
-- Perform create and read operations on redis.
-- Fetch data from google cloud storage.
+- Perform create and read operations on Redis.
+- Fetch data from Google Cloud Storage.
 
 ## Lesson Plan
 
