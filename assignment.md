@@ -24,7 +24,7 @@ r = redis.Redis(
 Answer:
 
 ```python
-r.hset("john_doe", mapping={"name": "John Doe", "age": 35, "email": "john@example.com"})
+
 ```
 
 ### Question 2
@@ -41,13 +41,7 @@ bucket = client.get_bucket("gcp-public-data-landsat")
 Answer:
 
 ```python
-blobs = bucket.list_blobs()
 
-print("First 10 blobs in {}:".format(bucket.name))
-for ix, blob in enumerate(blobs, start=1):
-    print(f"{ix}. {blob.name} ({blob.size} bytes)")
-    if ix == 10:
-        break
 ```
 
 ## Submission
