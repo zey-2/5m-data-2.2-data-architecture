@@ -16,9 +16,9 @@
 
 ### Q3: Which type of data architecture is designed to support various query/transformation engines and incorporates data warehouse controls and management?
 
-- A. Data Warehouse \*
+- A. Data Warehouse
 - B. Data Lake
-- C. Data Lakehouse
+- C. Data Lakehouse \*
 - D. Modern Data Stack
 
 ### Q4: What is the primary advantage of the Kappa architecture over the Lambda architecture?
@@ -39,8 +39,8 @@
 
 - A. Data Mesh
 - B. Kappa Architecture
-- C. Lambda Architecture
-- D. Dataflow Model \*
+- C. Lambda Architecture \*
+- D. Dataflow Model
 
 ### Q7: What is the primary advantage of the modern data stack architecture?
 
